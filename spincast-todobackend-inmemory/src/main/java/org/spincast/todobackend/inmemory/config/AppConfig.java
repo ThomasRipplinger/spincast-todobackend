@@ -3,7 +3,7 @@ package org.spincast.todobackend.inmemory.config;
 import org.spincast.core.config.SpincastConfig;
 
 /**
- * Application's custom configurations.
+ * Application's custom configurations. xxx
  * 
  * <p>
  * Extends <code>SpincastConfig</code> so we can use this class 
